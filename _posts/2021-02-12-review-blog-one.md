@@ -8,6 +8,8 @@
 
 ## *Reviewer Name:* Erin Slupe
 
+![Picture of Header](https://eslupe6.github.io/eslupe6/images/header.png)
+
 ### *Summary*
 
 *Civil War Washington* takes website users to Washington DC between 1860 and 1865, showing the city’s transformation from a sleepy town to a symbolic center of the nation. The website examines the social, political, cultural, and medical/scientific transitions that occured in DC. The project directors’ purpose is to explore the city and interpret its historical and cultural contexts through a collection of datasets, images, texts, and maps. 
@@ -24,6 +26,8 @@ The website is licensed under a Creative Commons Attribution-NonCommercial-Share
 
 The website’s homepage is neatly laid out with a banner image of the capitol building under construction and an introductory paragraph about the site. Below the image and introductory paragraph, there are six subsections titled “Introductions,” “Data,” “Maps,” “Texts,” “Visual Works,” and “Interpretations.” Each subsection has a corresponding photo, along with helpful descriptive captions. When hovering over a subsection, it becomes illuminated, prompting the user to visit a new page that contains the contents of the subsection. 
 
+![Picture of Subsections](https://eslupe6.github.io/eslupe6/images/subsections.png)
+
 The “Introductions” section does a good job of setting up the historical context and providing information that details the technological and intellectual decisions of the project directors. However, the blending of pieces about the context and the logistics behind the directors’ choices did not flow well. Some works discussed methodologies for digitizing print materials, while others discussed the significance of Washington as the nation’s capital. For enhanced clarity, the directors could separate works discussing the historical context and logistical choices.
 
 The directors could even move the logistical works to the “Interpretations” section of the website. This change would make sense, since this section focuses on how the researchers interpreted and analyzed pieces throughout the website construction process.
@@ -32,6 +36,8 @@ The “Data” section was interesting to browse through, providing a searchable
 
 I found historical manuscripts and print materials that chronicled the experience of war and life in the district within the “Texts” section. The texts were organized by petitions, medical cases, letters, and newspapers, which makes it easy for users looking for a specific text. The “Visual Works” section also allowed for a glimpse into life in the war-time city through photographs, lithographs, drawings, and other visual representations. 
 
-Beneath the images, there is basic information such as the image’s title and description. It would have been helpful if the information had a mix of bolded and unbolded words. Without any sort of contrast, it was a bit tough to read. However, I thought it was clever that the project directors linked the people and places from the “Visual Works” back to the “Data” section if users want more information. 
+Beneath the images, there is basic information such as the image’s title and description, which is shown in the picture below. It would have been helpful if the information had a mix of bolded and unbolded words. Without any sort of contrast, it was a bit tough to read. However, I thought it was clever that the project directors linked the people and places from the “Visual Works” back to the “Data” section if users want more information. 
+
+![Picture of Visual Works](https://eslupe6.github.io/eslupe6/images/visualworks.png)
 
 Ultimately, the project directors of *Civil War Washington* achieve their goal of providing a digital resource that analyzes the city from various perspectives. The website is organized well, providing an abundance of information that chronicles the war’s effects on DC. 
