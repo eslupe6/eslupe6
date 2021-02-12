@@ -32,7 +32,9 @@ The “Introductions” section does a good job of setting up the historical con
 
 The directors could even move the logistical works to the “Interpretations” section of the website. This change would make sense, since this section focuses on how the researchers interpreted and analyzed pieces throughout the website construction process.
 
-The “Data” section was interesting to browse through, providing a searchable database of people, places, organizations, documents, and events associated with Civil war era Washington. The search feature was straightforward and easy to operate. The places one could find within this section could also be found within the “Maps” section. I enjoyed the interactive aspect of the map, which allows users to move between current and historical views that display hospitals, theaters, or villages. 
+The “Data” section was interesting to browse through, providing a searchable database of people, places, organizations, documents, and events associated with Civil war era Washington. The search feature was straightforward and easy to operate. The places one could find within this section could also be found within the “Maps” section. I enjoyed the interactive aspect of the map, which allows users to move between current and historical views that display hospitals, theaters, or villages.
+
+![Picture of Map](https://eslupe6.github.io/eslupe6/images/map.png)
 
 I found historical manuscripts and print materials that chronicled the experience of war and life in the district within the “Texts” section. The texts were organized by petitions, medical cases, letters, and newspapers, which makes it easy for users looking for a specific text. The “Visual Works” section also allowed for a glimpse into life in the war-time city through photographs, lithographs, drawings, and other visual representations. 
 
