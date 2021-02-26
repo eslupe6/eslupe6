@@ -2,7 +2,7 @@
 
 I was assigned to code pages 16 through 19 of “The Yellow Wall-paper” by Charlotte Perkins Stetson. “The Yellow Wall-paper” is a narrative-style short story written in 1892, providing a glimpse into the societal attitudes and gender norms surrounding women’s health during this era. 
 
-Before coding, I used Google Docs to markup areas where tags would be needed. Next, I transferred the text into Oxygen, which is a coding program that uses eXtensible Markup Language (XML). To code, I used Text Encoding Initiative (TEI).
+Before coding, I used Google Docs to markup areas where tags would be needed. Next, I transferred the text into Oxygen, which is an XML (eXtensible Markup Language) coding program. To code, I used Text Encoding Initiative (TEI).
 
 ### Markup in Google Docs
 I first went into our class Google Drive to find a document that contained the text. When I heard I would mark up 4 pages, I thought the process would be painful. However, each page contained a few short paragraphs, which led me to breathe a sigh of relief.
