@@ -9,6 +9,8 @@ I first went into our class Google Drive to find a document that contained the t
 
 I marked up page numbers, weird spacings, underlined words, crossed out words, added words, text mistakes, and em-dashes. Some areas where tags would be needed were easier to identify than others. For example, the em-dashes were easier to spot compared to text mistakes, as those required a greater attention to detail.
 
+![Picture of Markup](https://eslupe6.github.io/eslupe6/images/markup.png)
+
 Although using Google Docs during the markup stage gave me a better understanding of the tags and a better view of the steps I would take in Oxygen, I was still nervous about coding.
 
 ### Coding in Oxygen
@@ -19,4 +21,6 @@ I felt relieved when the download completed, but my nerves crept up once I opene
 
 However, I noticed in “author view” that there were odd spaces between sentences that were interrupted by a page break. Asking questions in class was helpful, allowing me to identify the problem. I originally started a paragraph with ```<p>``` and ended it with ```<p>``` before the page number tag, then added another ```<p>``` before the rest of the sentence on the next page. This created the weird spacing. I resolved the issue through starting the paragraph with ```<p>```, entering the page tag, continuing the sentence that started on a new page, then concluding with a ```<p>``` to end the paragraph. I realized that sentences within paragraphs must stay connected to one another, with only the page tag separating them.
 
-Despite how nervous I was to code, this assignment was a positive experience. I grew more confident in coding ability, which makes me less afraid of tackling projects involving code in the workforce.
+![Picture of Code](https://eslupe6.github.io/eslupe6/images/coding.png)
+
+Despite how nervous I was to code, this assignment was a positive experience. I grew more confident in my coding ability, which makes me feel more prepared to tackle projects involving code in the workforce.
