@@ -24,7 +24,7 @@ The data within the site was sourced from three comprehensive databases on polic
 
 ### *Findings*
 
-The website contains seven tabs that are easy to navigate: “Police Violence Map,” “Compare Places,”“National Trends,”“Police Scoreboard,” “Year-End Police Violence Report,” “About the Data,” and “Planning Team.”
+The website contains seven tabs that are easy to navigate: “Police Violence Map,” “Compare Places,” “National Trends,” “Police Scoreboard,” “Year-End Police Violence Report,” “About the Data,” and “Planning Team.”
 
 The central focus of the website is the police violence map, which obtains plotted points across the United States of police killings from December 2019 to December 2020. Each point contains information about the victim and the circumstances surrounding their death.
 
