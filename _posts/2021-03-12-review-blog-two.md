@@ -36,7 +36,7 @@ The rest of the site includes informative charts, graphs, and statistics on poli
 
 Another issue pertains to a graph on the homepage titled “Police Are Killing People at Similar Rates as in Past Years.” While it is interesting to evaluate the police killing trends per year once filtering for race or armed status, the graph was not always easy to evaluate due to the overlapping lines I could not zoom in on.  
 
-
+![Graph](https://eslupe6.github.io/eslupe6/images/pv3.png)
 
 I got a clearer picture of the police killings per year through clicking on the pencil icon to isolate a particular year. However, the pencil icon is not easily visible, only appearing when I hovered over the color coded key. Additionally, the only way to see annual killings is to move the cursor to the end of the year’s line. Even then, sometimes I was unable to see the total because the key got in the way. It would be helpful if there was a feature that presented the annual killings alongside the graph.
 
