@@ -36,6 +36,8 @@ The rest of the site includes informative charts, graphs, and statistics on poli
 
 Another issue pertains to a graph on the homepage titled “Police Are Killing People at Similar Rates as in Past Years.” While it is interesting to evaluate the police killing trends per year once filtering for race or armed status, the graph was not always easy to evaluate due to the overlapping lines I could not zoom in on.  
 
+
+
 I got a clearer picture of the police killings per year through clicking on the pencil icon to isolate a particular year. However, the pencil icon is not easily visible, only appearing when I hovered over the color coded key. Additionally, the only way to see annual killings is to move the cursor to the end of the year’s line. Even then, sometimes I was unable to see the total because the key got in the way. It would be helpful if there was a feature that presented the annual killings alongside the graph.
 
 An aspect of the site I enjoyed was the search tool at the bottom of the homepage, where one can examine police killings by department or state. After searching, a number of people killed by the police appears along with various colored dots containing information such people’s names and descriptions. You can further filter these dots by race or armed status, and the dots will change their grouping. This interactive component is visually pleasing and informative, however the dots are close together, so it would be easy to miss one when hovering the cursor over them. 
