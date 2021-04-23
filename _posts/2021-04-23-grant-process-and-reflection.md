@@ -9,6 +9,8 @@ We found two projects similar to our map. Projects such as Hank Nuwer’s Schola
 
 However, Nuwer’s hazing deaths database within his website provided a solid foundation with the data needed to create the interactive map, and there were interesting statistics within HazingPrevention.Org that could be incorporated below our map. While our map draws from these projects, it is ultimately different because it provides an interactive visual representation of hazing deaths that allows users to notice patterns that would be hard to notice through looking at a list alone. 
 
+![Picture of Hazing Database](https://eslupe6.github.io/eslupe6/images/hazingdatabase.png)
+
 Ethan and I had a pretty clear vision about what we wanted our map to look like, and that stayed consistent throughout the grant proposal process. The process of writing the grant only solidified our understanding of the map. One small change we made is the addition of a feature where users can see Greek life presence at various college campuses to identify any relationships between Greek life presence and hazing deaths. 
 
 While writing the environmental scan and grant narrative, it was easy for me to describe the relevance of our project since hazing is a pervasive problem across college campuses. It was also easy to explain who this project will benefit, because it is useful for a variety of people ranging from school administrators to prospective college students. 
